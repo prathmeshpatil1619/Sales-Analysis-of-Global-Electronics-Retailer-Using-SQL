@@ -31,7 +31,7 @@ The project uses multiple datasets (`Customers`, `Stores`, `Exchange Rates`, etc
 - Top customers & top countries by revenue.
 - Delivery delays (supply chain insights).
 
-👉 Full SQL Queries- [`SQLPROJECTAdvanceQueries.sql`](./SQLPROJECTAdvanceQueries.sql)
+👉 Full SQL Queries- "D:\DSDA Course\SQL Mastery Module\GlobalElectronicsRetailer SQL Project\SQLPROJECTAdvanceQueries.sql"
 
 ---
 
