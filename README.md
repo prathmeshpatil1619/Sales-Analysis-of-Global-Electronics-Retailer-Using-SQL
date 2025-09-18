@@ -31,12 +31,10 @@ The project uses multiple datasets (`Customers`, `Stores`, `Exchange Rates`, etc
 - Top customers & top countries by revenue.
 - Delivery delays (supply chain insights).
 
-👉 Full SQL Queries- "D:\DSDA Course\SQL Mastery Module\GlobalElectronicsRetailer SQL Project\SQLPROJECTAdvanceQueries.sql"
 
----
 
 ## 📊 Datasets
-- [Sales.csv](.\Sales.csv)
+- [Sales.csv](D:\DSDA Course\SQL Mastery Module\GlobalElectronicsRetailer SQL Project)
 - [Customers.csv](./Customers.csv)  
 - [Stores.csv](./Stores.csv)  
 - [Exchange_Rates.csv](./Exchange_Rates.csv)  
