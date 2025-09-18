@@ -2,6 +2,7 @@
 Sales analysis project using MySQL to explore customers, sales, products, and stores. Includes queries for top products, revenue by country, gender insights, loyal customers, and unsold items using Joins, Aggregations, and Subqueries.
 # 📊 SQL Sales Analytics Project
 
+
 ## 📌 Overview
 This project demonstrates **advanced SQL queries and analytics** on a retail sales dataset.  
 It explores customer demographics, sales performance, revenue contribution, product analysis, and store operations.
@@ -30,17 +31,6 @@ The project uses multiple datasets (`Customers`, `Stores`, `Exchange Rates`, etc
 - Yearly & monthly revenue trends.
 - Top customers & top countries by revenue.
 - Delivery delays (supply chain insights).
-
-
-
-## 📊 Datasets
-- [Sales.csv](D:\DSDA Course\SQL Mastery Module\GlobalElectronicsRetailer SQL Project)
-- [Customers.csv](./Customers.csv)  
-- [Stores.csv](./Stores.csv)  
-- [Exchange_Rates.csv](./Exchange_Rates.csv)  
-- [Products.csv](.\Products.csv)
-- [Data_Dictionary.csv](./Data_Dictionary.csv)
-
 
 
 
