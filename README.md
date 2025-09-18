@@ -36,12 +36,15 @@ The project uses multiple datasets (`Customers`, `Stores`, `Exchange Rates`, etc
 ---
 
 ## 📊 Datasets
+- [Sales.csv](.\Sales.csv)
 - [Customers.csv](./Customers.csv)  
 - [Stores.csv](./Stores.csv)  
 - [Exchange_Rates.csv](./Exchange_Rates.csv)  
+- [Products.csv](.\Products.csv)
 - [Data_Dictionary.csv](./Data_Dictionary.csv)
 
-*(Upload all CSVs into the repository so links work directly.)*
+
+
 
 ---
 
